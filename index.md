@@ -1,4 +1,4 @@
-    ## Welcome
+## Welcome
 
 I am lecturer at the University of Edinburgh and an Assistant Professor at the University of Edinburgh - Zhejiang University Institute. This is my public github repository. 
 
